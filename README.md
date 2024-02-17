@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  Ciências da Computação.
 - 💞️ I’m looking to collaborate on Ciências da Computação.
 - 📫 por email: hitalouzan@gmail.com
-- https://wa.me/5511911566247
+- https://wa.me/5511963029419
 - https://hitalouzan.github.io/Portf-lio/
  
 HitaloUzan/HitaloUzan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
