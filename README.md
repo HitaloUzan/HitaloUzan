@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uzandev?igsh=d29tbHR5bTNxbWh3)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511963029419)
 
-![Hitalo Uzan GitHub stats](https://github-readme-stats.vercel.app/api?username=HitaloUzan&show_icons=true&theme=radical)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HitaloUzan&layout=donut)](https://github.com/HitaloUzan/)
 
