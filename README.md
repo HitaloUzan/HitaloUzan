@@ -2,13 +2,14 @@
 ### Olá ! Eu sou o Hitalo Uzan 👋🏻
 #### Dev Front-End 💻
 
+
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitalouzan/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uzandev?igsh=d29tbHR5bTNxbWh3)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511963029419)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HitaloUzan&show_icons=true&theme=neon)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HitaloUzan&layout=donut)](https://github.com/HitaloUzan/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HitaloUzan&layout=compact&theme=neon)](https://github.com/HitaloUzan/)
 
 ## Tecnologias que mais uso no meu dia 😎
 
@@ -39,3 +40,5 @@
 - Estudante de Ciências da Computação (formação prevista para 2025).
 - FrontPush.
 - Design UI/UX.
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HitaloUzan&bg_color=000000&color=00ead3&line=ff449f&point=00ead3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
